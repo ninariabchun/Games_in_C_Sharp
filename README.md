@@ -1,4 +1,4 @@
-# Games in C#
+# Games in Unity
 
 I have finished a course "Introduction to Video Games Creation" from XAMK Open University.
 You can find it here: https://cambridge-academy-of-gaming-and-innovation.teachable.com/p/introduction-to-video-games-creation
