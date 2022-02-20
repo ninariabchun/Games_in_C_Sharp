@@ -1,4 +1,4 @@
-# Merlin's Demon War
+# Merlin's Demon War - Design Document
 
 ## Overview 
 ‘Merlin's Demon War’ is a simple fun single player card battler. 
